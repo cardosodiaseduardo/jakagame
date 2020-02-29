@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jakagame/precache-manifest.60fa22cc46ed0372a6020ba4cbd0b527.js"
+  "/jakagame/precache-manifest.27b2c4297ab14c0a49f87071cfe0e4ba.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "jakagame"});

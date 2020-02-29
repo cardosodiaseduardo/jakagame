@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8dd829556ec73c4c2d24",
+    "revision": "4ef3ea03c7846e95d1dc",
     "url": "/jakagame/css/app.b9c16671.css"
   },
   {
-    "revision": "8dd829556ec73c4c2d24",
-    "url": "/jakagame/js/app.cc6019df.js"
+    "revision": "4ef3ea03c7846e95d1dc",
+    "url": "/jakagame/js/app.132a6c50.js"
   },
   {
     "revision": "4e0c8fdd5c495761a036",
@@ -260,7 +260,7 @@ self.__precacheManifest = [
     "url": "/jakagame/img/setedeespadas.9314d91c.png"
   },
   {
-    "revision": "2fde3adace26619c02b98f929349941d",
+    "revision": "479d1878e66ab969dbc78cb6dd0caba1",
     "url": "/jakagame/index.html"
   },
   {
