@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4ef3ea03c7846e95d1dc",
-    "url": "/jakagame/css/app.b9c16671.css"
+    "revision": "c5b623368d11f9e5b569",
+    "url": "/jakagame/css/app.683769d4.css"
   },
   {
-    "revision": "4ef3ea03c7846e95d1dc",
-    "url": "/jakagame/js/app.132a6c50.js"
+    "revision": "c5b623368d11f9e5b569",
+    "url": "/jakagame/js/app.271fd9c5.js"
   },
   {
     "revision": "4e0c8fdd5c495761a036",
@@ -60,6 +60,10 @@ self.__precacheManifest = [
     "url": "/jakagame/img/tresdecopas.361d3da8.png"
   },
   {
+    "revision": "f5188c64e9839fd668a97e2a17921f33",
+    "url": "/jakagame/img/insta.f5188c64.png"
+  },
+  {
     "revision": "baf91ac8b1061e48bfa44f732290f4e7",
     "url": "/jakagame/img/damadeespadas.baf91ac8.png"
   },
@@ -102,6 +106,10 @@ self.__precacheManifest = [
   {
     "revision": "a2733c2e3396153e597ead2b558e2af5",
     "url": "/jakagame/img/brazilsflag.a2733c2e.svg"
+  },
+  {
+    "revision": "d143b4779194f39b4819cb3630c7dc49",
+    "url": "/jakagame/img/facebook.d143b477.png"
   },
   {
     "revision": "3dc83db779003bd4fae2593a2f9892a8",
@@ -260,7 +268,7 @@ self.__precacheManifest = [
     "url": "/jakagame/img/setedeespadas.9314d91c.png"
   },
   {
-    "revision": "479d1878e66ab969dbc78cb6dd0caba1",
+    "revision": "b5fcdfc5ab7765aa45a7188b09fced57",
     "url": "/jakagame/index.html"
   },
   {
